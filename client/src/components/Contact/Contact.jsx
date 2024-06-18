@@ -10,7 +10,7 @@ const Contact = () => {
         {/* left side */}
         <div className="flexColStart c-left">
           <span className="orangeText">التواصل معنا</span>
-          <span className="primaryText">متاح بك الطرق </span>
+          <span className="primaryText">متاح بكل الطرق </span>
           <span className="secondaryText">
     نحن دائما جاهزون و مستعدون لاستقبال اقتراحاتكم ومشاكلكم لتحسن الخدمة نحو الافضل{" "}
           </span>
