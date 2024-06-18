@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-bnag72hdxz0u12qv.eu.auth0.com"
      clientId="GflqkyBHaHnGFXKfSd8xaZnz3SSXYkNa"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://hamak-ali-zamzams-projects.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
