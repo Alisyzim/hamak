@@ -1,5 +1,4 @@
 import express from 'express';
-import {auth} from 'express-oauth2-jwt-bearer'
 import dotenv from 'dotenv';
 import cookieParser from 'cookie-parser';
 import cors from 'cors';
