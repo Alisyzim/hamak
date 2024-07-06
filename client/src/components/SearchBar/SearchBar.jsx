@@ -6,7 +6,7 @@ const SearchBar = ({ filter, setFilter }) => {
     <div className="flexCenter search-bar">
       <HiLocationMarker color="var(--blue)" size={25} />
       <input
-        placeholder="ابحث عبر العنوان / الدولة / المدينة"
+        placeholder="العنوان / الدولة / المدينة/ السعر"
         type="text"
         value={filter}
         onChange={(e) => setFilter(e.target.value)}

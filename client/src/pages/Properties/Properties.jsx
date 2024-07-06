@@ -42,7 +42,9 @@ const Properties = () => {
                 (property) =>
                   property.title.toLowerCase().includes(filter.toLowerCase()) ||
                   property.city.toLowerCase().includes(filter.toLowerCase()) ||
-                  property.country.toLowerCase().includes(filter.toLowerCase())
+                  property.country.toLowerCase().includes(filter.toLowerCase()) ||
+                  property.price.toString().toLowerCase().includes(filter.toLowerCase())
+
               )
               .map((card, i) => (
                 <PropertyCard card={card} key={i} />

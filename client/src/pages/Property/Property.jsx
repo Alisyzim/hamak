@@ -167,6 +167,7 @@ const Property = () => {
               address={data?.address}
               city={data?.city}
               country={data?.country}
+              price={data?.price}
             />
           </div>
         </div>

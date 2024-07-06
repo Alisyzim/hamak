@@ -28,7 +28,6 @@ const Hero = () => {
             <span>سوف تنسى جميع الصعوبات في ايجاد ما يناسبك</span>
           </div>
 
-          <SearchBar/>
 
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
