@@ -42,6 +42,8 @@ const Header = () => {
             className="flexCenter h-menu"
             style={getMenuStyles(menuOpened)}
           >
+            <NavLink to="https://alisyzim.github.io/WEB-2.3v/">افتتاح قريب الق نظرة </NavLink>
+            
             <NavLink to="/properties">المعروضات</NavLink>
 
             <a href="mailto:zainkeepscode@gmail.com">تواصل معنا</a>
