@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      authorizationParams={{
       redirect_uri: "https://hamak-two.vercel.app"
      }}
-     audience="https://hamak-server.vercel.app"
+     audience="https://hamak-server.vercel.app/api"
      scope="openid profile email"
     >
       <App />
