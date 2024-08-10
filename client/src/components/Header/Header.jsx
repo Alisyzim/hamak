@@ -42,9 +42,9 @@ const Header = () => {
             className="flexCenter h-menu"
             style={getMenuStyles(menuOpened)}
           >
-              <NavLink to="https://alisyzim.github.io/WEB-2.3v/">Do you prefer English?</NavLink>
-
             <NavLink to="https://alisyzim.github.io/WEB-2.3v/">افتتاح قريب الق نظرة </NavLink>
+
+            <NavLink to=" https://alisyzim.github.io/WEB-3.8v/">موقع الرحلات السياحية</NavLink>
             
             <NavLink to="/properties">المعروضات</NavLink>
 
