@@ -44,7 +44,7 @@ const Header = () => {
           >
             <NavLink to="https://alisyzim.github.io/WEB-2.3v/">افتتاح قريب الق نظرة </NavLink>
 
-            <NavLink to=" https://alisyzim.github.io/WEB-3.8v/">موقع الرحلات السياحية</NavLink>
+            <NavLink to="https://alisyzim.github.io/WEB-3.8v/">موقع الرحلات السياحية</NavLink>
             
             <NavLink to="/properties">المعروضات</NavLink>
 
